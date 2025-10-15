@@ -95,4 +95,4 @@ web/keys.json
 
 # Temporary files
 *.tmp
-*.temp
+*.templib/firebase_options.dart
